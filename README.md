@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=B3E5FC&text=Olá,%20sou%20o%20Rafael%20😀&textBg=false&fontColor=666&fontAlign=23&fontSize=40&fontAlignY=33" alt="header"/> 
 
-# 👋 Olá, eu sou Rafael 
-
 ## 💼 Perfil Profissional
 
 - 💻 Estudante de Engenharia da Computação na SATC  
